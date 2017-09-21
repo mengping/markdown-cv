@@ -7,7 +7,7 @@ a climate data person.
 
 <div id="contact">
 <i class="fa fa-envelope" aria-hidden="true"></i><a href="">email</a>
-| <i class="fa fa-github-alt"></i> <a href="https://github.com/mengping">github/a>
+| <i class="fa fa-github-alt"></i> <a href="https://github.com/mengping">github</a>
 </div>
 
 
